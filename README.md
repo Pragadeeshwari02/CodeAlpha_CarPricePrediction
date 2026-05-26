@@ -108,12 +108,15 @@ Predicted Selling Price: ₹ 6.37 Lakhs
 ## 🚀 How to Run This Project
 
 1️⃣ Clone the repository
+
 ```git clone https://github.com/your-username/car-price-prediction.git```
 
 2️⃣ Install dependencies
+
 ```pip install -r requirements.txt```
 
 3️⃣ Run the notebook
+
 ```jupyter notebook```
 
 ---
